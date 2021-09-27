@@ -14,5 +14,5 @@
  
  
  
-### Contrast
+### Concerns
 *Steering away from traditional infracstructure. What are the possibilities and outcomes like for downtown?*
