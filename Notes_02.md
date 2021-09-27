@@ -15,4 +15,4 @@
  
  
 ### Concerns
-*Steering away from traditional infracstructure. What are the possibilities and outcomes like for downtown?*
+*Steering away from traditional infracstructure. What are the possibilities and outcomes like for downtown on the cloud?*
